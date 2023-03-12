@@ -1,5 +1,5 @@
 {
-  "name": "@j0nnyboi/cusper",
+  "name": "@safecoin/cusper",
   "version": "0.0.1",
   "description": "Resolves Custom Program Errors from Solana program logs or error codes.",
   "main": "dist/src/cusper.js",
